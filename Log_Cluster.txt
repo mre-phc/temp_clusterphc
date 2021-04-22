@@ -737,3 +737,5 @@ Thu Apr 22 12:14:01 -03 2021, Package id 0: +36.0°C (high = +74.0°C, crit = +8
 Thu Apr 22 12:16:01 -03 2021, Package id 0: +36.0°C (high = +74.0°C, crit = +84.0°C)
 Thu Apr 22 12:18:01 -03 2021, Package id 0: +37.0°C (high = +74.0°C, crit = +84.0°C)
 Thu Apr 22 12:20:01 -03 2021, Package id 0: +36.0°C (high = +74.0°C, crit = +84.0°C)
+Thu Apr 22 12:22:01 -03 2021, Package id 0: +36.0°C (high = +74.0°C, crit = +84.0°C)
+Thu Apr 22 12:24:01 -03 2021, Package id 0: +41.0°C (high = +74.0°C, crit = +84.0°C)
